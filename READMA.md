@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielesawy&layout=compact&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmamdouh12345&layout=compact&theme=tokyonight" width="400px" />
 </p>
 
 ---
@@ -60,6 +60,6 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/alielesawy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/alielesawy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/amirmamdouh123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/amirmamdouh12345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
