@@ -15,9 +15,7 @@
 - 🎓 *Software Engineer* with a passion for *Java, C++, and DevOps*
 - 🌱 Currently learning *Java Web Development & Cloud Technologies*
 - 💡 Open to *collaborations* on *Software Development Projects*
-- ✍️ I regularly write tech blogs on [My Blog](https://blog.aliesmail.tech)  
-- 🌍 Check out my *[Portfolio](https://aliesmail.tech)*  
-- 📫 Reach me at *alielesawy811@gmail.com*
+- 📫 Reach me at *amir.mam.alx@gmail.com*
 
 ---
 
