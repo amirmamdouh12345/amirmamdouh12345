@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alielesawy&show_icons=true&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirMamdouh&show_icons=true&theme=tokyonight" width="400px" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alielesawy&" alt="alielesawy" />
